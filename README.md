@@ -1,6 +1,5 @@
 ### Hi there, its me adesh 👋
 
-<!--
 (http://hits.dwyl.com/adeshedle/adeshedle.svg)](http://hits.dwyl.com/adeshedle/adeshedle)
 
 Gits, about me 
@@ -26,4 +25,4 @@ In my free time you can find me playing football ⚽, at the play station 🎮, 
 
 
 HAPPY CODING !
--->
+
