@@ -12,7 +12,7 @@ In my free time you can find me playing football ⚽, at the play station 🎮, 
 - 🌱 Learning everyday, currently learning big data, cloud computing. 
 - 👯 I’m looking to collaborate on _______!
 - 🤔 I’m looking for help with anything that dont sums up!
-- 💬 Ask me about ...
+- 💬 Ask me about coding
 - 📫 How to reach me: <a href="mailto:adhanedly@gmail.com">Lets get in touch!</a>
 - 😄 I will try to: Go beyond and push to the bounds.
 - 😍 Other places you can find me ↩
