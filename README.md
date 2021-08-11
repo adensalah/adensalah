@@ -1,4 +1,8 @@
 ### Hi there, its me adesh 👋
+![Adesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeshedle&count_private=true)
+
+
+
 
 (http://hits.dwyl.com/adeshedle/adeshedle.svg)](http://hits.dwyl.com/adeshedle/adeshedle)
 
@@ -25,4 +29,5 @@ In my free time you can find me playing football ⚽, at the play station 🎮, 
 
 
 HAPPY CODING !
+
 
