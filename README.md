@@ -45,15 +45,15 @@
 
 <p align="center">
     <a href="https://github.com/adensalah/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ADESH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adeshedle&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ADESH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adensalah&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/adensalah/github-readme-stats"><img alt="Adesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adeshedle&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/adensalah/github-readme-stats"><img alt="Adesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshedle&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/adensalah/github-readme-stats"><img alt="Adesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adensalh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/adensalah/github-readme-stats"><img alt="Adesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adensalah&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/adensalah/github-readme-activity-graph"><img alt="Adesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adeshedle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/adensalah/github-readme-activity-graph"><img alt="Adesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adensalah&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -70,7 +70,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/adhan-moge-9659718a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Adesh_edle"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/
+           _edle"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/adhan_edle/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
