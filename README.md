@@ -48,7 +48,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ADESH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adensalah&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adesh&theme=dark)](https://github.com/adensalah/adensalah)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adeshedle&theme=dark)](https://github.com/adensalah/adensalah)
 
 ## 📊 My Github Stats
 
