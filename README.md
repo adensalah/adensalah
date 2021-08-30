@@ -66,6 +66,21 @@
 
 <br/>
 <br/>
+<p align="center">
+   Are you an early 🐤 or a night 🦉?
+   <br/>
+   When are you most productive during the day?
+   <br/>
+   What are languages you code in?
+   <br/>
+   Let's check out in your profile readme!
+</p>
+
+<p align="center">
+    <a href="https://github.com/adensalah/waka-readme-stats/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/adensalah/waka-readme-stats/issues">Request Feature</a>
+  </p>
 
 ## Connect with me:
 <p align="left">
