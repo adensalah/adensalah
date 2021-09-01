@@ -98,4 +98,4 @@
 
 ## Message
 
-- 💖 <h2>Being a kind, supportive, helpful community member. </h2>
+- 💖 **Being a kind, supportive, helpful community member.**
