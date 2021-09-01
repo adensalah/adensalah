@@ -48,7 +48,21 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ADESH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adensalah&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adeshedle&theme=dark)](https://github.com/adensalah/adensalah)
+<div align="center">
+
+<!-- ![wakatime-charts](https://socialify.git.ci/divykj/wakatime-charts/image?description=1&font=Inter&owner=1&pattern=Charlie%20Brown&theme=Light "wakatime charts")
+
+![GitHub Repo stars](https://img.shields.io/github/stars/divykj/wakatime-charts?color=%23dfb317&style=for-the-badge "Github Repo stars")
+![GitHub forks](https://img.shields.io/github/forks/divykj/wakatime-charts?color=%2397ca00&style=for-the-badge "Github forks")
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/divykj/wakatime-charts?color=%23fe7d37&label=PULLS&style=for-the-badge "Github pull requests") -->
+
+---
+
+![Weekly Language Stats](https://raw.githubusercontent.com/adensalah/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
+![Weekly Project Stats](https://raw.githubusercontent.com/adensalah/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")
+
+</div>
+
 
 ## 📊 My Github Stats
 
