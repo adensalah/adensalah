@@ -96,5 +96,5 @@
 </a>
 <a href="https://github.com/adensalah?tab=followers"><img src="https://img.shields.io/github/followers/adensalah?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+<p><b>Being a kind, supportive, helpful community member</b><p>
 
