@@ -66,6 +66,9 @@
 
 <br/>
 <br/>
+<img src="https://github.com/<adesnsalah>/<adensalah>/blob/<branch-name>/images/stat.svg" alt="My Wakatime Stats"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 <p align="center">
    Are you an early 🐤 or a night 🦉?
    <br/>
