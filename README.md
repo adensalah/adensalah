@@ -91,6 +91,7 @@
 </a>
 <a href="https://github.com/adensalah?tab=followers"><img src="https://img.shields.io/github/followers/adensalah?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://wakatime.com/@df967e37-60ce-422d-b1a1-a2f30f27fd7d"><img src="https://wakatime.com/badge/user/df967e37-60ce-422d-b1a1-a2f30f27fd7d.svg" alt="Total time coded since Feb 16 2021" /></a>
+</br>
 ## Message
 
 - 💖 **Being a kind, supportive, helpful community member.**
