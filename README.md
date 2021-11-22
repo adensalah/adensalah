@@ -61,11 +61,6 @@
 
 <br/>
 <br/>
-
-
-<br/>
-<img src="https://github.com/adesnsalah/adensalah/blob/main/images/stat.svg" alt="My Wakatime Stats"/>
-
 <p align="center">
    Are you an early 🐤 or a night 🦉?
    <br/>
