@@ -62,11 +62,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/adensalah/github-readme-activity-graph"><img alt="Adesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adensalah&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
-<img src="https://github.com/<adesnsalah>/<adensalah>/blob/<branch-name>/images/stat.svg" alt="My Wakatime Stats"/>
+<img src="https://github.com/<adesnsalah>/<adensalah>/blob/main/images/stat.svg" alt="My Wakatime Stats"/>
 Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 <p align="center">
