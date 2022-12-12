@@ -1,5 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<h1 align="center"> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+  
 <h1 align="center">Hi 👋, I'm Aden Salah</h1>
 <h3 align="center">A passionate software engineer and a web developer from Kenya.</h3>
 
