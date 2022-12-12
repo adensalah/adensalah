@@ -4,7 +4,8 @@
 <h3 align="center">A passionate software engineer and a web developer from Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adensalah&label=Profile%20views&color=0e75b6&style=flat" alt="adensalah" /> </p>
-
+<p align="left">
+<a href="https://wakatime.com/@df967e37-60ce-422d-b1a1-a2f30f27fd7d"><img src="https://wakatime.com/badge/user/df967e37-60ce-422d-b1a1-a2f30f27fd7d.svg" alt="Total time coded since Feb 16 2021" /></a>
 <p align="left"> <a href="https://twitter.com/aden_moge" target="blank"><img src="https://img.shields.io/twitter/follow/aden_moge?logo=twitter&style=for-the-badge" alt="aden_moge" /></a> </p>
 
 - 🔭 I’m currently working on **Personal portfolio**
@@ -18,7 +19,9 @@
 - ⚡ Fun fact **The average computer user blinks 7 times a minute, less than half the normal rate of 20.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+</br>
+
 <a href="https://twitter.com/aden_moge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aden_moge" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adhan-moge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adhan-moge/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/adhan_moge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adhan_moge/" height="30" width="40" /></a>
@@ -32,3 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adensalah&show_icons=true&locale=en" alt="adensalah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adensalah&" alt="adensalah" /></p>
+<br>
+## Message
+
+- 💖 **Being a kind, supportive, helpful community member.**
