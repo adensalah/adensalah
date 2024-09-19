@@ -84,9 +84,11 @@ Feel free to explore my repositories, connect with me, or collaborate on interes
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adhan-moge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adhan-moge/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/adhan_moge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adhan_moge/" height="30" width="40" /></a>
 
+---
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adensalah&show_icons=true&locale=en&layout=compact" alt="adensalah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adensalah&show_icons=true&locale=en" alt="adensalah" /></p>
