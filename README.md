@@ -101,3 +101,5 @@ Feel free to explore my repositories, connect with me, or collaborate on interes
 ### Message
 
 - 💖 **Being a kind, supportive, helpful community member.**
+
+---
