@@ -91,13 +91,16 @@ Feel free to explore my blog for more insights and tutorials!
 
 ---
 
-Feel free to explore my repositories, connect with me, or collaborate on interesting projects!
+### 📬 Contact
 
-🌐 **Find me on:**  
+I'm always open to collaborating on interesting projects or discussing technology. Feel free to reach out!
 
+📧 **Email:** [Adhanedly@gmail.com](mailto:Adhanedly@gmail.com)
+
+🌐 **Find me on:** 
+<a href="https://linkedin.com/in/adhan-moge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhan-moge" height="30" width="40" /></a>
+<a href="https://instagram.com/adhan_moge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhan_moge" height="30" width="40" /></a>
 <a href="https://twitter.com/aden_moge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aden_moge" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adhan-moge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adhan-moge/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/adhan_moge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adhan_moge/" height="30" width="40" /></a>
 
 ---
 
