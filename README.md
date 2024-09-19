@@ -103,7 +103,7 @@ I'm always open to collaborating on interesting projects or discussing technolog
 🌐 **Find me on:** 
 <a href="https://linkedin.com/in/adhan-moge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhan-moge" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_adensalah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhan_moge" height="30" width="40" /></a>
-<a href="https://adensalah.github.io/ams/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aden_moge" height="30" width="40" /></a>
+<a href="https://x.com/_adensalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aden_moge" height="30" width="40" /></a>
 
 ---
 
