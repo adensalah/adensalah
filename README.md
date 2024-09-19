@@ -35,6 +35,8 @@ I am passionate about **network security**, **backend development**, and **commu
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 ---
 
 ### 🚀 Projects & Demos
@@ -104,9 +106,6 @@ I'm always open to collaborating on interesting projects or discussing technolog
 
 ---
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
----
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adensalah&show_icons=true&locale=en&layout=compact" alt="adensalah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adensalah&show_icons=true&locale=en" alt="adensalah" /></p>
