@@ -55,7 +55,7 @@ Here are some of the projects I've been working on:
 - **[Flutter Mobile App](https://github.com/adensalah/flutter-project)**  
   A mobile app designed for tracking personal fitness goals and managing workout routines, built using Flutter.
 
-- **[OGN (Open Government Network) Links](https://your-ogn-project-link.com)**  
+- **[OGN (Open Government Network) Links](https://github.com/adensalah/Links)**  
   A platform aimed at promoting transparency and open governance through accessible data. Built using Angular and Supabase.
 
 Feel free to explore the demos and source code linked above!
