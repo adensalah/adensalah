@@ -10,7 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adensalah&label=Profile%20views&color=0e75b6&style=flat" alt="adensalah" />
 <a href="https://wakatime.com/@df967e37-60ce-422d-b1a1-a2f30f27fd7d"><img src="https://wakatime.com/badge/user/df967e37-60ce-422d-b1a1-a2f30f27fd7d.svg" alt="Total time coded since Feb 16 2021" /></a>
 
-I am passionate about **network security**, **backend development**, and **community development**. I have experience working in Network Operations Centers (NOCs), with a growing interest in **Security Operations Centers (SOCs)** and **ICT innovations**. Currently, I’m focusing on **PHP for backend development** and exploring the latest in **network security**.
+I am a **Software Engineer** and **Web Developer** passionate about **network security**, **backend development**, and **community development**. I have experience working in **Network Operations Centers (NOCs)**, with a growing interest in **Security Operations Centers (SOCs)** and **ICT innovations**. Currently, I’m focusing on **PHP for backend development** and exploring the latest in **network security**.
+
 
 🌱 **Currently Learning:** Advanced network management, cloud security, and enhancing backend applications with PHP.
 
