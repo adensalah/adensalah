@@ -72,6 +72,8 @@ I love sharing my knowledge and insights through writing. Check out some of my r
 
 Feel free to explore my blog for more insights and tutorials!
 
+---
+
 
 ### 📊 My Coding Stats
 
