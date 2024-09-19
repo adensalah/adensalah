@@ -90,6 +90,7 @@ Feel free to explore my blog for more insights and tutorials!
 ### ⚡ Fun Facts
 - 🏀 I organize sports activities to engage and mentor youth in my community.
 - 🌱 Passionate about **sustainability** and currently working on a design for **futuristic bus shelters** in Kenya!
+- 😎 The average computer user blinks 7 times a minute, less than half the normal rate of 20.
 
 ---
 
