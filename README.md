@@ -96,6 +96,8 @@ Feel free to explore my repositories, connect with me, or collaborate on interes
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adensalah&" alt="adensalah" /></p>
 <br>
 
+---
+
 ### Message
 
 - 💖 **Being a kind, supportive, helpful community member.**
