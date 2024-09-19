@@ -37,8 +37,6 @@ I am passionate about **network security**, **backend development**, and **commu
 
 ---
 
----
-
 ### 🚀 Projects & Demos
 
 Here are some of the projects I've been working on:
@@ -60,6 +58,7 @@ Here are some of the projects I've been working on:
 
 Feel free to explore the demos and source code linked above!
 
+---
 
 ### 📊 My Coding Stats
 
