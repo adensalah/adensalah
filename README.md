@@ -60,6 +60,19 @@ Feel free to explore the demos and source code linked above!
 
 ---
 
+### 📝 Blogs
+
+I love sharing my knowledge and insights through writing. Check out some of my recent blog posts:
+
+- **[How to Create Your Own Website](https://adensalah.hashnode.dev/how-to-create-your-own-website)**  
+  A step-by-step guide to building your first website from scratch using modern web development tools.
+
+- **[How to Become an Expert in Web Design](https://adensalah.hashnode.dev/how-to-become-an-expert-in-web-design)**  
+  Tips and resources to master web design and stay ahead in the industry.
+
+Feel free to explore my blog for more insights and tutorials!
+
+
 ### 📊 My Coding Stats
 
 <!-- WakaTime -->
