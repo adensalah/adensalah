@@ -37,6 +37,30 @@ I am passionate about **network security**, **backend development**, and **commu
 
 ---
 
+---
+
+### 🚀 Projects & Demos
+
+Here are some of the projects I've been working on:
+
+- **[Personal Portfolio](https://adensalah.github.io/ams/)**  
+  A showcase of my skills, projects, and contact information. Built with HTML, CSS, and JavaScript.
+
+- **[Virtual Healthcare System](https://yourhealthcareproject.com)**  
+  An online platform that enables patients to book appointments and consult with doctors remotely. Developed using PHP, MySQL, and React.
+
+- **[Employee Management System](https://github.com/adensalah/EmployeesManagement)**  
+  A system designed to manage employee records, roles, and performance reviews. Built using PHP, MySQL, and Bootstrap for the front-end.
+
+- **[Flutter Mobile App](https://github.com/adensalah/flutter-project)**  
+  A mobile app designed for tracking personal fitness goals and managing workout routines, built using Flutter.
+
+- **[OGN (Open Government Network) Links](https://your-ogn-project-link.com)**  
+  A platform aimed at promoting transparency and open governance through accessible data. Built using Angular and Supabase.
+
+Feel free to explore the demos and source code linked above!
+
+
 ### 📊 My Coding Stats
 
 <!-- WakaTime -->
