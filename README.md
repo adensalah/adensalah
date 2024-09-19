@@ -3,7 +3,7 @@
 
 # Hi there, I'm Adhan Salah! 👋
 
-🎓 **Bachelor of Science in ICT** | CyberOps Associate 🛡️ | ICT Innovation Enthusiast 💻
+🎓 **Bachelor of Science in ICT** | Software Engineer 💻 | CyberOps Associate 🛡️ | ICT Innovation Enthusiast 🛠
 
 ---
 
