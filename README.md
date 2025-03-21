@@ -10,16 +10,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adensalah&label=Profile%20views&color=0e75b6&style=flat" alt="adensalah" />
 <a href="https://wakatime.com/@df967e37-60ce-422d-b1a1-a2f30f27fd7d"><img src="https://wakatime.com/badge/user/df967e37-60ce-422d-b1a1-a2f30f27fd7d.svg" alt="Total time coded since Feb 16 2021" /></a>
 
-I am a **Software Engineer** and **Web Developer** passionate about **network security**, **backend development**, and **community development**. I have experience working in **Network Operations Centers (NOCs)**, with a growing interest in **Security Operations Centers (SOCs)** and **ICT innovations**. Currently, I’m focusing on **PHP for backend development** and exploring the latest in **network security**.
+### 👨‍💻 About Me
 
+🔹 Passionate about **network security, backend development, and web technologies**.
+🔹 Experienced in **Network Operations Centers (NOCs) & Security Operations Centers (SOCs)**.
+🔹 Skilled in **Java, PHP, Spring Boot, MySQL, Supabase, and more**.
+🔹 Volunteer at **Red Cross Kenya**, promoting **first aid awareness & youth empowerment through sports**.
 
-🌱 **Currently Learning:** Advanced network management, cloud security, and enhancing backend applications with PHP.
-
-🤝 **Volunteering:** I am actively involved with Red Cross Kenya, helping to educate communities on **first aid** and supporting local youth through sports activities to promote positive lifestyles.
+💡 Currently learning **Spring Boot, Java, and database management** to enhance my backend development skills!
 
 ---
 
-### 🔧 Languages & Tools
+### 🛠 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
@@ -46,85 +48,56 @@ I am a **Software Engineer** and **Web Developer** passionate about **network se
 
 ---
 
-### 🚀 Projects & Demos
-
-Here are some of the projects I've been working on:
-
-- **[Personal Portfolio](https://adensalah.github.io/ams/)**  
-  A showcase of my skills, projects, and contact information. Built with HTML, CSS, and JavaScript.
-
-- **[Virtual Healthcare System](https://yourhealthcareproject.com)**  
-  An online platform that enables patients to book appointments and consult with doctors remotely. Developed using PHP, MySQL, and React.
-
-- **[Employee Management System](https://github.com/adensalah/EmployeesManagement)**  
-  A system designed to manage employee records, roles, and performance reviews. Built using PHP, MySQL, and Bootstrap for the front-end.
-
-- **[Flutter Mobile App](https://github.com/adensalah/flutter-project)**  
-  A mobile app designed for tracking personal fitness goals and managing workout routines, built using Flutter.
-
-- **[OGN (Open Government Network) Links](https://github.com/adensalah/Links)**  
-  A platform aimed at promoting transparency and open governance through accessible data. Built using Angular and Supabase.
-
-Feel free to explore the demos and source code linked above!
+### 📌 Most Used Languages (WakaTime)
+[![Adhan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=df967e37-60ce-422d-b1a1-a2f30f27fd7d&layout=compact&theme=light)](https://wakatime.com/@df967e37-60ce-422d-b1a1-a2f30f27fd7d)
 
 ---
 
-### 📝 Blogs
+### 🚀 Projects
 
-I love sharing my knowledge and insights through writing. Check out some of my recent blog posts:
+📌 **[Personal Portfolio](https://adensalah.github.io/ams/)** – Showcasing my skills, projects, and contact info.
+📌 **[Virtual Healthcare System](https://yourhealthcareproject.com)** – A web-based platform for doctor-patient interactions.
+📌 **[Employee Management System](https://github.com/adensalah/EmployeesManagement)** – A tool for HR management.
+📌 **[Flutter Fitness App](https://github.com/adensalah/flutter-project)** – A personal fitness tracker.
+📌 **[OGN Links](https://github.com/adensalah/Links)** – Open governance network data-sharing platform.
 
-- **[How to Create Your Own Website](https://adensalah.hashnode.dev/how-to-create-your-own-website)**  
-  A step-by-step guide to building your first website from scratch using modern web development tools.
+🔗 Explore more on my **[GitHub](https://github.com/adensalah)**!
 
-- **[How to Become an Expert in Web Design](https://adensalah.hashnode.dev/how-to-become-an-expert-in-web-design)**  
-  Tips and resources to master web design and stay ahead in the industry.
+---
 
-Feel free to explore my blog for more insights and tutorials!
+### 📝 Blogs & Writing
+
+✍ **[How to Create Your Own Website](https://adensalah.hashnode.dev/how-to-create-your-own-website)** – A step-by-step guide.
+✍ **[Mastering Web Design](https://adensalah.hashnode.dev/how-to-become-an-expert-in-web-design)** – Learn design principles.
+
+📚 Read more on **[Hashnode](https://adensalah.hashnode.dev/)**!
+
+---
+
+### 💌 Let's Connect!
+
+💌 **Email:** [Adhanedly@gmail.com](mailto\:Adhanedly@gmail.com) 
+🌐 **LinkedIn:** [Adhan Moge Salah](https://linkedin.com/in/adhan-moge) 
+🐦 **Twitter/X:** [@\_adensalah](https://x.com/_adensalah) 
+📸 **Instagram:** [@\_adensalah](https://www.instagram.com/_adensalah/) 
+
+
+---
+
+### 🌟 Fun Facts
+
+💡 The average computer user blinks **7 times a minute**, half the normal rate!
+🏀 I organize **sports activities** to mentor youth in my community.
+🌱 Working on a **futuristic bus shelter design** for sustainability in Kenya!
+
+---
+
+### 🎯 Message
+
+> "The best way to predict the future is to create it." – Peter Drucker
+
+🤝 **Always open to collaborations & new opportunities!**
 
 ---
 
 
-### 📊 My Coding Stats
-
-<!-- WakaTime -->
-[![Adhan's WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=adensalah&layout=compact)](https://wakatime.com/@adensalah)
-
-<!-- Most Used Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adensalah&layout=compact)](https://github.com/adensalah)
-
----
-
-### ⚡ Fun Facts
-- 🏀 I organize sports activities to engage and mentor youth in my community.
-- 🌱 Passionate about **sustainability** and currently working on a design for **futuristic bus shelters** in Kenya!
-- 😎 The average computer user blinks 7 times a minute, less than half the normal rate of 20.
-
----
-
-### 📬 Contact
-
-I'm always open to collaborating on interesting projects or discussing technology. Feel free to reach out!
-
-📧 **Email:** [Adhanedly@gmail.com](mailto:Adhanedly@gmail.com) <br>
-
-🌐 **Find me on:** 
-<a href="https://linkedin.com/in/adhan-moge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhan-moge" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_adensalah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhan_moge" height="30" width="40" /></a>
-<a href="https://x.com/_adensalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aden_moge" height="30" width="40" /></a>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adensalah&show_icons=true&locale=en&layout=compact" alt="adensalah" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adensalah&show_icons=true&locale=en" alt="adensalah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adensalah&" alt="adensalah" /></p>
-<br>
-
----
-
-### Message
-
-- 💖 **Being a kind, supportive, helpful community member.**
-
----
