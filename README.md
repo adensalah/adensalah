@@ -39,7 +39,7 @@ I build **secure, scalable systems** and love diving into **networking, backend 
 ---
 
 ### **🔥 Projects Spotlight**  
-- **🌐 [Portfolio](https://adensalah.github.io/as/)** – My dev journey in one place.  
+- **🌐 [Portfolio](https://adensalah.netlify.app/)** – My dev journey in one place.  
 - **🏥 Virtual Healthcare System** – Bridging doctors & patients digitally.  
 - **💼 Employee Management Tool** – Streamlining HR workflows.  
 - **🏋️ Flutter Fitness App** – Your pocket gym buddy.  
